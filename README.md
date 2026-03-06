@@ -13,7 +13,7 @@ This simulation environment is used for the SoSE 2026 experiment.
 
 Click the image below to watch the D-SoS simulation video.
 
-[![Simulation Video](Unity_Simulation/simulation.png)](D-SoS.mp4)
+[Download / Open the full D-SoS simulation video](https://github.com/ertlnagoya/Materials-for-Shimoyama-Thesis/blob/SoSE2026/Unity_Simulation/D-SoS.mp4)
 
 ## Simulation Video(C-SoS)
 
