@@ -8,7 +8,6 @@ Each branch corresponds to a specific conference submission.
 ## [SoSE2026](https://github.com/ertlnagoya/Materials-for-Shimoyama-Thesis/tree/SoSE2026)  
   Materials for the SoSE 2026 paper.
 <br>
-・Simulation Environment
-  - [SoSE2026 Paper](https://github.com/ertlnagoya/Materials-for-Shimoyama-Thesis/blob/SoSE2026/Unity_Simulation)
-・Experimental Data
-  - [SoSE2026 Paper](https://github.com/ertlnagoya/Materials-for-Shimoyama-Thesis/blob/SoSE2026/Experimental_Data)
+  - [SoSE2026 Paper](https://github.com/ertlnagoya/Materials-for-Shimoyama-Thesis/blob/SoSE2026/Unity_Simulation) (Simulation Environment)
+<br>
+  - [SoSE2026 Paper](https://github.com/ertlnagoya/Materials-for-Shimoyama-Thesis/blob/SoSE2026/Experimental_Data) (Experimental Data)
