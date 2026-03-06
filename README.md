@@ -11,6 +11,12 @@ This simulation environment is used for the SoSE 2026 experiment.
 
 ## Simulation Video(D-SoS)
 
-Click the image below to watch the simulation video.
+Click the image below to watch the D-SoS simulation video.
+
+[![Simulation Video](Unity_Simulation/simulation.png)](D-SoS.mp4)
+
+## Simulation Video(C-SoS)
+
+Click the image below to watch the C-SoS simulation video.
 
 [![Simulation Video](Unity_Simulation/simulation.png)](D-SoS.mp4)
